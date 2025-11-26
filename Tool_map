@@ -1,0 +1,51 @@
+CapCut-for-VA-Learning
+
+CapCut-for-VA-Learning/
+│
+├── level_0_introduction/
+│ ├── 00-why-capcut-for-va.md
+│ └── 00-setup-capcut-account.md
+│
+├── level_1_basic_usage/
+│ ├── 01-import-media.md
+│ ├── 02-basic-timeline-controls.md
+│ ├── 03-cut-trim-split.md
+│ ├── 04-add-text-captions.md
+│ ├── 05-audio-basics-and-volume-control.md
+│
+├── level_2_editing_fundamentals/
+│ ├── 06-transitions.md
+│ ├── 07-basic-effects.md
+│ ├── 08-adjust-speed.md
+│ ├── 09-green-screen-chroma.md
+│ ├── 10-remove-background.md
+│
+├── level_3_content_workflow_for_va/
+│ ├── 11-caption-generator.md
+│ ├── 12-auto-subtitles.md
+│ ├── 13-templates-and-presets.md
+│ ├── 14-brand-kit-basics.md
+│ └── 15-export-settings-for-clients.md
+│
+├── level_4_va_client_coordination/
+│ ├── 16-client-video-requests.md
+│ ├── 17-organize-client-assets.md
+│ ├── 18-capcut-google-drive-workflow.md
+│ ├── 19-send-video-drafts.md
+│ └── 20-client-feedback-loop.md
+│
+├── level_5_tool_integrations/
+│ ├── 21-capcut-canva-workflow.md
+│ ├── 22-tiktok-publishing.md
+│ ├── 23-youtube-shorts-format-guide.md
+│ ├── 24-instagram-reels-export-guide.md
+│ └── 25-using-capcut-web-editor.md
+│
+├── level_6_advanced_capcut_tips/
+│ ├── 26-advanced-keyframes.md
+│ ├── 27-mask-and-blend-modes.md
+│ ├── 28-auto-cutout-ai-tools.md
+│ ├── 29-multi-layer-editing.md
+│ └── 30-pro-export-optimization.md
+│
+└── roadmap.md
